@@ -1,0 +1,10 @@
+﻿{
+  "name": "Change Into Swimsuit",
+  "author": "gayannabeth",
+  "Version": "1.0.0",
+  "Description": "Allows use of the ChangeIntoSwimsuit and ChangeOutOfSwimsuit action in events and using Action instead of just TouchAction",
+  "UniqueID": "gayannabeth.ChangeIntoSwimsuit",
+  "EntryDll": "ChangeIntoSwimsuit.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": []
+}
