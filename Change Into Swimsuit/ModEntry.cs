@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using Change_Into_Swimsuit;
 using Microsoft.Xna.Framework;
 using StardewModdingAPI;
 using StardewModdingAPI.Events;
@@ -14,6 +15,7 @@ namespace ChangeIntoSwimsuit
         {
             EventCommands.Initialize(helper);
             ActionCommands.Initialize(helper);
+            TriggerActions.Initialize(helper);
         }
     }
 }
