@@ -6,5 +6,5 @@
   "UniqueID": "gayannabeth.ChangeIntoSwimsuit",
   "EntryDll": "ChangeIntoSwimsuit.dll",
   "MinimumApiVersion": "4.0.0",
-  "UpdateKeys": []
+  "UpdateKeys": [ "Nexus:43491" ]
 }
